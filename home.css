@@ -1,0 +1,26 @@
+body
+{
+    background: linear-gradient(to right, rgba(0, 11, 160, 0.644),rgba(255, 87, 87, 0.644)),url(images/kolam.jpg);
+}
+.top
+{
+    margin-left: 500px;
+    font-size: 50px;
+
+}
+.top p
+{
+    font-family: 'Acme', sans-serif;
+    size: 200px;
+    font-weight: bolder;
+    word-spacing: 20px;
+}
+
+.slider img
+{
+    height: 700px;
+}
+.card-columns
+{
+    margin-top: 50px;
+}
